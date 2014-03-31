@@ -28,7 +28,7 @@
 'exception-reporting':
   'userId': '08ec4668-7d6f-8318-6850-1df6c951bfaa'
 'release-notes':
-  'viewedVersion': '0.79.0'
+  'viewedVersion': '0.80.0'
 'welcome':
   'showOnStartup': false
 'metrics':
